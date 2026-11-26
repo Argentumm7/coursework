@@ -6,4 +6,5 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(coursework main.cpp
         hcw.h
         123.cpp
+        3star.cpp
 )
